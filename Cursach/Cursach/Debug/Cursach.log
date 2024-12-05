@@ -1,0 +1,8 @@
+﻿  Cursach.cpp
+C:\Users\Александр\source\repos\Cursach\Cursach\Cursach.cpp(123,12): warning C4129: %: неизвестная escape-последовательность
+C:\Users\Александр\source\repos\Cursach\Cursach\Cursach.cpp(124,12): warning C4129: %: неизвестная escape-последовательность
+C:\Users\Александр\source\repos\Cursach\Cursach\Cursach.cpp(125,12): warning C4129: %: неизвестная escape-последовательность
+C:\Users\Александр\source\repos\Cursach\Cursach\Cursach.cpp(126,12): warning C4129: %: неизвестная escape-последовательность
+C:\Users\Александр\source\repos\Cursach\Cursach\Cursach.cpp(218,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\Cursach\Cursach\Cursach.cpp(234,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cursach.vcxproj -> C:\Users\Александр\source\repos\Cursach\Debug\Cursach.exe
